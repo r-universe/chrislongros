@@ -1,7 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/chrislongros/chrislongros.r-universe.dev
 	branch = HEAD
 [submodule "ankiR"]
 	path = ankiR
-	url = https://github.com/chrislongros/ankir
+	url = https://github.com/chrislongros/ankiR
+[submodule "rfsrs"]
+	path = rfsrs
+	url = https://github.com/chrislongros/r-fsrs
+	branch = master
