@@ -7,5 +7,5 @@
 	url = https://github.com/chrislongros/ankiR
 [submodule "rfsrs"]
 	path = rfsrs
-	url = https://github.com/chrislongros/r-fsrs
+	url = https://github.com/open-spaced-repetition/r-fsrs
 	branch = master
