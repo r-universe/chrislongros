@@ -5,6 +5,7 @@
 [submodule "ankiR"]
 	path = ankiR
 	url = https://github.com/chrislongros/ankiR
+	branch = *release
 [submodule "rfsrs"]
 	path = rfsrs
 	url = https://github.com/open-spaced-repetition/r-fsrs
