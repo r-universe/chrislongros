@@ -6,6 +6,12 @@
 	path = ankiR
 	url = https://github.com/chrislongros/ankiR
 	branch = v0.6.0
+[submodule "freebsdcontribs"]
+	path = freebsdcontribs
+	url = https://github.com/chrislongros/freebsdcontribs
+[submodule "osscontribs"]
+	path = osscontribs
+	url = https://github.com/chrislongros/osscontribs
 [submodule "rfsrs"]
 	path = rfsrs
 	url = https://github.com/open-spaced-repetition/r-fsrs
