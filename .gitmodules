@@ -5,7 +5,6 @@
 [submodule "ankiR"]
 	path = ankiR
 	url = https://github.com/chrislongros/ankiR
-	branch = v0.6.6
 [submodule "freebsdcontribs"]
 	path = freebsdcontribs
 	url = https://github.com/chrislongros/freebsdcontribs
@@ -16,3 +15,6 @@
 	path = rfsrs
 	url = https://github.com/open-spaced-repetition/r-fsrs
 	branch = master
+[submodule "srsbench"]
+	path = srsbench
+	url = https://github.com/chrislongros/srsbench
