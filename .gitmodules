@@ -5,6 +5,9 @@
 [submodule "ankiR"]
 	path = ankiR
 	url = https://github.com/chrislongros/ankiR
+[submodule "fletcher"]
+	path = fletcher
+	url = https://github.com/chrislongros/fletcher
 [submodule "freebsdcontribs"]
 	path = freebsdcontribs
 	url = https://github.com/chrislongros/freebsdcontribs
