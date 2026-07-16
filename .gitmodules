@@ -5,6 +5,9 @@
 [submodule "ankiR"]
 	path = ankiR
 	url = https://github.com/chrislongros/ankiR
+[submodule "basil"]
+	path = basil
+	url = https://github.com/chrislongros/basil
 [submodule "fletcher"]
 	path = fletcher
 	url = https://github.com/chrislongros/fletcher
