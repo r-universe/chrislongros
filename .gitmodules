@@ -17,6 +17,9 @@
 [submodule "osscontribs"]
 	path = osscontribs
 	url = https://github.com/chrislongros/osscontribs
+[submodule "possum"]
+	path = possum
+	url = https://github.com/chrislongros/possum
 [submodule "rfsrs"]
 	path = rfsrs
 	url = https://github.com/open-spaced-repetition/r-fsrs
